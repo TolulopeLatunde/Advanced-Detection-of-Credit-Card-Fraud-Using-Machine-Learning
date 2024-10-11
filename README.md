@@ -4,6 +4,7 @@ Project Overview
 
 This project aims to build and evaluate various machine learning models to detect fraudulent credit card transactions effectively. Fraud detection in credit card transactions is a critical challenge faced by financial institutions, as fraudulent activities can cause significant financial losses. The goal of this project is to develop a robust model that can identify fraudulent transactions from a dataset with a high degree of accuracy, while also addressing challenges such as class imbalance.
 
+Dataset: https://www.kaggle.com/datasets/nelgiriyewithana/credit-card-fraud-detection-dataset-2023/code
 Key Features
 
 Data Preprocessing: Includes handling missing values, feature scaling (standardizing the Amount feature), and splitting data into training and testing sets.
